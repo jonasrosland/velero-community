@@ -1,4 +1,4 @@
-# TGIK Playlist Index
+# Ark community meeting playlist index
 
 ## 2018
 

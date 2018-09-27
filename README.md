@@ -10,7 +10,7 @@ These public meetings will be focused on a specific feature and will be a techni
 
 ## Info
 
-The [index](playlist.md) contains a list of all episodes.
+The [index](playlist.md) contains a list of all meetings.
 
 The [official YouTube channel can be found here](https://www.youtube.com/watch?v=5WTx8su8t_8&list=PLvmPtYZtoXOFxnW32NRcS8857A4novNVs).
 
