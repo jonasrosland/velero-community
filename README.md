@@ -1,4 +1,4 @@
-# Official repository for Heptio Ark community meetings!
+# Official repository for Heptio Ark community meetings
 
 ## Ark Q&A
 
@@ -6,7 +6,7 @@ Happens on every 2nd Tuesday of every month at 4pm UTC. These public online meet
 
 ## Ark Design Session
 
- These public meetings will be focused on a specific feature and will be a technical design discussion. We'll announce ahead of time what feature will be the topic for an upcoming meeting, so stay tunned. We will have these regularly and will figure out how often we need them.
+These public meetings will be focused on a specific feature and will be a technical design discussion. We'll announce ahead of time what feature will be the topic for an upcoming meeting, so stay tunned. We will have these regularly and will figure out how often we need them.
 
 ## Info
 

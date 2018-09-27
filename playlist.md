@@ -6,6 +6,6 @@
 
 - [09/25: Backup and Volume Snapshot Locations](meetings/2018/design-session/0927/README.md)
 
-### Office Hours
+### Q&A
 
 - Upcoming on 10/09
