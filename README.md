@@ -1,6 +1,6 @@
 # Official repository for Heptio Ark community meetings!
 
-## Ark Office Hour
+## Ark Q&A
 
 Happens on every 2nd Tuesday of every month at 4pm UTC. These public online meetings will be focused on: answering any Ark related questions you may have, or if you want to give us feedback verbally, or if you just want to hang out.
 
