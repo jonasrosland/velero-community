@@ -1,5 +1,7 @@
 # Ark Q&A Session, Oct 10, 2018
 
+You can find the video recording of this meeting [on YouTube](https://www.youtube.com/watch?v=l8XRmtohJBM)
+
 # Agenda
 
 ## Introductions
