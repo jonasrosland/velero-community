@@ -75,6 +75,6 @@ Some topics that have come up in the last month or so on Slack and the mailing l
 ## Schedule for the rest of 2018
 
 * We won't be having an October 23 design session.
-* Next Q&A is November 13
-* Next design discussion will be November 27. Particularly interested in user input about encryption requirements
+* Next Q&A is November 13. [YouTube live stream](https://www.youtube.com/watch?v=nVoEJv_ZIiM)
+* Next design discussion will be November 27. Particularly interested in user input about encryption requirements. [YouTube live stream](https://www.youtube.com/watch?v=Ml5lN4cV1Yk)
 * No streams in December. KubeCon's on December 6 and December 25 is Christmas.
