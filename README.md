@@ -9,6 +9,7 @@ To get a calendar invite to these meetings, please join the [Velero Google Group
 If something is amiss with the invites, you can use the following links to get to the meetings:
 
 [First Tuesday every month](https://VMware.zoom.us/j/551441444)
+
 [Third Tuesday every month](https://VMware.zoom.us/j/324372812)
 
 ## Info
