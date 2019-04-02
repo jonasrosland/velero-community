@@ -2,6 +2,8 @@
 
 Notes for the Nov 13, 2018 [YouTube video/live stream](https://www.youtube.com/watch?v=nVoEJv_ZIiM)
 
+Add your request, question or suggestion to [our issue list](https://github.com/heptio/velero-community/issues)
+
 # Attendees
 
  - Jorge Castro, Steve Kriss, Nolan Brubaker, Carlisia Pinto, Marissa Bosche, Ross Kukulinksi, Jennifer Rondeau. Jorge Alarcon from University of Texas @ Austin, 

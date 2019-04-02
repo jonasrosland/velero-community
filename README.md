@@ -14,7 +14,7 @@ If something is amiss with the invites, you can use the following links to get t
 
 ## Info
 
-The [meetings folder](meetings) contains documentation and recordings of all meetings.
+The [index](playlist.md) contains a list of all meetings.
 
 ## Suggest an topic
 
@@ -23,3 +23,18 @@ We generally pick topics around features we are working on, but we want to hear 
 If we select your suggestion we will give you a shoutout on during the online meeting!
 
 *Note: Velero was previously known as Heptio Ark. Past meeting notes, videos, etc. have been retained as-is for posterity.*
+
+---
+## Velero Community
+
+[Velero on Kubernetes Slack](https://kubernetes.slack.com/messages/C6VCGP4MT)
+
+[Github](https://github.com/heptio/ark)
+
+[Velero Zenhub Project](https://github.com/heptio/ark#boards?repos=99143276)
+
+[Google Groups](https://groups.google.com/forum/#!forum/projectvelero)
+
+[Velero Youtube Playlist](https://www.youtube.com/watch?v=5WTx8su8t_8&list=PLvmPtYZtoXOFxnW32NRcS8857A4novNVs)
+
+[Ark on Twitter](https://twitter.com/projectv)

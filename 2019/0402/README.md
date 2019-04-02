@@ -1,7 +1,8 @@
-# Velero Community Meeting
-## April 2, 2019
+# Velero Community Meeting - April 2, 2019
 
-Recording: https://www.youtube.com/watch?v=nc48ocI-6go
+You can find the video recording of this meeting [on YouTube](https://www.youtube.com/watch?v=nc48ocI-6go) 
+
+Add your request, question or suggestion to [our issue list](https://github.com/heptio/velero-community/issues)
 
 Agenda
 - what have we been working on?
@@ -14,7 +15,7 @@ Agenda
         - Changes to the interface and smaller dependency foot print
         - Spruced up examples
         - Velero will now hault if there's a mismatch between the plugin and Velero versions
-        - Velero now checks and doesn't allow duplicate plugin names
+        - Velero now checks and doesn't allow duplicate plugin names 
         - BlockStore is now VolumeSnapshotter
         - Error improvements: stack traces so we know error location from within the plugin
         - Restore plugin interface now adds original, unmodified item
@@ -36,17 +37,17 @@ Agenda
     - we need help with v1.0 pre-release testing!
     - if you're interested in...
         - Azure
-            - help test AZ disks support: https://github.com/heptio/velero/pull/1298
+            - help test AZ disks support: https://github.com/heptio/velero/pull/1298 
             - support for German cloud: https://github.com/heptio/velero/issues/287
             - support using storage account keys in addition to service principal: https://github.com/heptio/velero/issues/1165
             - support certificates for service principals: https://github.com/heptio/velero/issues/1289
         - GCE/GKE:
             - support cross-project snapshot restores: https://github.com/heptio/velero/issues/1268
-        - restic:
+        - restic: 
             - don't error on empty volumes: https://github.com/heptio/velero/issues/1266
             - bug fix: first backup in a namespace fails: https://github.com/heptio/velero/issues/1078
         - debuggability / supportability:
-            - create `velero debug` command: https://github.com/heptio/velero/issues/675
+            - create `velero debug` command: https://github.com/heptio/velero/issues/675 
             - improve instructions to user when something goes wrong: https://github.com/heptio/velero/issues/305
         - metrics:
             - add last successful backup timestamp metric: https://github.com/heptio/velero/issues/1136
