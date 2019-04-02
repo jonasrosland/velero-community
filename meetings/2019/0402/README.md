@@ -1,7 +1,3 @@
----
-title: Velero Community Meeting - April 2, 2019
----
-
 # Velero Community Meeting
 ## April 2, 2019
 
