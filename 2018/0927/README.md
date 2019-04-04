@@ -1,10 +1,14 @@
 # Ark Design Sessions: Backup & Volume Snapshot Locations
 
+You can find the video recording of this meeting [on YouTube](https://www.youtube.com/watch?v=RwaE12FgKR0&list=PLvmPtYZtoXOFxnW32NRcS8857A4novNVs&index=2)
+
+Add your request, question or suggestion to [our issue list](https://github.com/heptio/velero-community/issues)
+
 ## Topic: Backup & Volume Snapshot Locations
 
 # September 27, 9AM PT / 10AM MT / 12pm ET
 
-Add your request or suggestion to our issue list: https://github.com/heptio/ark-community/issues
+Add your request or suggestion to our issue list: https://github.com/heptio/velero-community/issues
 
 todo: link to video
 

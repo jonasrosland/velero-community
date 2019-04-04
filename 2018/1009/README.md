@@ -1,6 +1,8 @@
 # Ark Q&A Session, Oct 10, 2018
 
-You can find the video recording of this meeting [on YouTube](https://www.youtube.com/watch?v=l8XRmtohJBM)
+You can find the video recording of this meeting [on YouTube](https://www.youtube.com/watch?v=l8XRmtohJBM&list=PLvmPtYZtoXOFxnW32NRcS8857A4novNVs&index=4&t=4s)
+
+Add your request, question or suggestion to [our issue list](https://github.com/heptio/velero-community/issues)
 
 # Agenda
 
@@ -21,7 +23,7 @@ Megan Bruce
   - This bot will monitor Slack for questions that have been answered and will try to respond when they come up again.
   - It will also scrape our documentation and try to provide answers from them.
 * Thanks to Kubedex for the mention https://kubedex.com/top-10/
-* We're using the https://github.com/heptio/ark-community repo to track notes for meetings and other community management things.
+* We're using the https://github.com/heptio/velero-community repo to track notes for meetings and other community management things.
   - Notes for the Q&A will go there.
 * Heptio Ark [v0.9.7](https://github.com/heptio/ark/releases/tag/v0.9.7) was released Thursday, Oct. 4.
 * Kubecon attendance
