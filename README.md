@@ -29,12 +29,12 @@ If we select your suggestion we will give you a shoutout on during the online me
 
 [Velero on Kubernetes Slack](https://kubernetes.slack.com/messages/C6VCGP4MT)
 
-[Github](https://github.com/heptio/ark)
+[Github](https://github.com/heptio/velero)
 
-[Velero Zenhub Project](https://github.com/heptio/ark#boards?repos=99143276)
+[Velero Zenhub Project](https://github.com/heptio/velero#workspaces/velero-5c59c15e39d47b774b5864e3/board?repos=99143276)
 
 [Google Groups](https://groups.google.com/forum/#!forum/projectvelero)
 
 [Velero Youtube Playlist](https://www.youtube.com/watch?v=5WTx8su8t_8&list=PLvmPtYZtoXOFxnW32NRcS8857A4novNVs)
 
-[Ark on Twitter](https://twitter.com/projectv)
+[Velero on Twitter](https://twitter.com/projectvelero)
