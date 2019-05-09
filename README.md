@@ -16,7 +16,7 @@ If something is amiss with the invites, you can use the following links to get t
 
 The [index](playlist.md) contains a list of all meetings.
 
-## Suggest an topic
+## Suggest a topic
 
 If you have an idea for a topic of discussion please [open an issue in the Velero community issue tracker](https://github.com/heptio/velero-community/issues).
 We generally pick topics around features we are working on, but we want to hear what is of interest in the Velero community.
@@ -35,6 +35,6 @@ If we select your suggestion we will give you a shoutout on during the online me
 
 [Google Groups](https://groups.google.com/forum/#!forum/projectvelero)
 
-[Velero Youtube Playlist](https://www.youtube.com/watch?v=5WTx8su8t_8&list=PLvmPtYZtoXOFxnW32NRcS8857A4novNVs)
+[Velero Community Meetings Youtube Playlist](https://www.youtube.com/playlist?list=PL7bmigfV0EqQRysvqvqOtRNk4L5S7uqwM)
 
 [Velero on Twitter](https://twitter.com/projectvelero)
