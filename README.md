@@ -35,6 +35,6 @@ If we select your suggestion we will give you a shoutout on during the online me
 
 [Google Groups](https://groups.google.com/forum/#!forum/projectvelero)
 
-[Velero Community Meetings Youtube Playlist](https://www.youtube.com/playlist?list=PL7bmigfV0EqQRysvqvqOtRNk4L5S7uqwM)
+[Velero Youtube Playlist](https://www.youtube.com/playlist?list=PL7bmigfV0EqQRysvqvqOtRNk4L5S7uqwM)
 
 [Velero on Twitter](https://twitter.com/projectvelero)
