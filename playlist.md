@@ -2,6 +2,10 @@
 
 ## 2019
 
+- [06/04: Community Meeting](2019/0604/README.md)
+
+- [05/21: Community Meeting](2019/0521/README.md)
+
 - [05/07: Community Meeting](2019/0507/README.md)
 
 - [04/16: Community Meeting](2019/0416/README.md)
