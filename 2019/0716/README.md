@@ -2,7 +2,7 @@
 
 [Previous meeting notes](https://github.com/heptio/velero-community)
 
-You can find the video recording of this meeting [on YouTube](LINK) 
+You can find the video recording of this meeting [on YouTube](https://www.youtube.com/watch?v=KQpinNZhFTI) 
 
 Add your request, question or suggestion to [our issue list](https://github.com/heptio/velero-community/issues)
 
